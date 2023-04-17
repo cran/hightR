@@ -1,7 +1,7 @@
-7a135e08f7ee32e86923141ec46f3d1b *DESCRIPTION
+90c6d533c87533ddd8302d06b6f8efca *DESCRIPTION
 16c485868aa6deee17ea339ddd1b802b *NAMESPACE
-675ccd2ae7d92c032a7941243f037dd8 *R/hightR_base.R
-c9478f8475b1e0d880bb3a585f8b52f7 *R/hight_dec.R
-f1da99e6ca7b76bee2824886bd62447f *R/hight_enc.R
-1684f76d3a8406896864562ecbe0096d *man/hight_dec.Rd
-5d7af432914e67c887201f95bfc39147 *man/hight_enc.Rd
+1ad5cf218b5405ebceed9374c5670c77 *R/hightR_base.R
+d8bfb774c08a431e4c1ea7eef68590f8 *R/hight_dec.R
+d4c487b289ce45626e97e4cdb051fb45 *R/hight_enc.R
+4ed4d45d53d4d188fabeebc2cfbfdf48 *man/hight_dec.Rd
+30eaa6ddfc7b9a0c210cefd50007d024 *man/hight_enc.Rd
