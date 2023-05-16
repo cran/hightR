@@ -1,6 +1,6 @@
 Package: hightR
 Title: HIGHT Algorithm
-Version: 0.2.0
+Version: 0.3.0
 Authors@R: c(person(given="Yongwoo", family="Kim", email="yw_kim@outlook.com", role = c("aut", "cre")))
 Author: Yongwoo Kim [aut, cre]
 Maintainer: Yongwoo Kim <yw_kim@outlook.com>
@@ -11,7 +11,7 @@ Imports: stats
 URL: https://github.com/Yongwoo-Eg-Kim/hightR
 BugReports: https://github.com/Yongwoo-Eg-Kim/hightR/issues
 RoxygenNote: 7.2.3
-Packaged: 2023-04-17 07:42:58 UTC; Yongwoo
+Packaged: 2023-05-16 00:26:07 UTC; yongwoo.kim
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2023-04-17 08:00:02 UTC
+Date/Publication: 2023-05-16 04:40:03 UTC
